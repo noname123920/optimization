@@ -113,6 +113,18 @@ while difference > epsilon
   x_prev = x_next;
 end
 
+% Оптимальная точка на границе (берегу)
+x_opt = x_prev;
+
+% Координаты траектории: (xB, yB) -> (x_opt, 0) -> (xG, yG)
+traj_x = [xB, x_opt, xG];
+traj_y = [yB, 0, yG];
+
+% Рисуем траекторию на существующем графике
+plot(traj_x, traj_y, 'r--', 'LineWidth', 2, 'DisplayName', 'Optimal Path');
+
+% Отмечаем точку пересечения границы
+plot(x_opt, 0, 'ko', 'MarkerFaceColor', 'y', 'MarkerSize', 8, 'DisplayName', 'Refraction Point');
 
 
 
