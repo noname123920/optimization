@@ -11,8 +11,8 @@ function C = create_matrix(alpha, h, a, b)
     end
 
     C(1, 1) = 1;
-    C(1, 2) = -1;
+    C(1, 2) = 0;
 
-    C(N, N-1) = -1;
+    C(N, N-1) = 0;
     C(N, N)   = 1;
 end
