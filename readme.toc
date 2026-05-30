@@ -1,0 +1,15 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}\S 1. Существование регуляризирующих операторов для интегральных уравнений первого рода}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Постановка задачи и классы функций}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Множество возможных решений и принцип отбора}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Теоремы существования регуляризирующих операторов}{4}{}%
+\contentsline {subsection}{\numberline {1.4}Обобщение на функционалы высших порядков гладкости}{5}{}%
+\contentsline {section}{\numberline {2}\S 5. О дискретизации задачи нахождения приближенных решений интегральных уравнений первого рода}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Дискретизация краевой задачи для уравнения Эйлера}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Метод квадратного корня}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Метод Воеводина}{8}{}%
+\contentsline {section}{\numberline {3}\S 6. Примеры применения метода регуляризации}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Код программы 1}{10}{}%
+\contentsline {subsection}{\numberline {3.2}Результат 1}{12}{}%
+\contentsline {subsection}{\numberline {3.3}Код программы 2}{12}{}%
+\contentsline {subsection}{\numberline {3.4}Результат 2}{14}{}%
